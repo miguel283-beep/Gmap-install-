@@ -1,6 +1,6 @@
 # GMAP — Security Scanner
 
-Ferramenta de verificações básicas de segurança HTTP e HTTPS.
+Ferramenta de verificações básicas de segurança HTTP e HTTPS feito por @omiguel_8 com muito esforço.
 
 Site oficial:
 https://gmap-org.netlify.app/

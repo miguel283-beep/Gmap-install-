@@ -13,3 +13,4 @@ pkg install git python -y
 git clone https://github.com/SEU_USUARIO/gmap.git
 cd gmap
 bash install.sh
+feito com muito esforço por @omiguel_8
